@@ -1,2 +1,4 @@
 
 Here's a file
+
+On branch NewFeature of branch dev I added this line
